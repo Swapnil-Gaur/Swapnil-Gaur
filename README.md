@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN?si=-x7H4_izQwKZYDTH2AcQFw)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN?si=-x7H4_izQwKZYDTH2AcQFw)](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)
 
 ---
 
