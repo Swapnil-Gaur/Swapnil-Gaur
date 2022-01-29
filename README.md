@@ -15,17 +15,12 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN?si=-x7H4_izQwKZYDTH2AcQFw)](https://open.spotify.com/user/11153360645)
 
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-
-
-<br />
-
----
 
 ### Languages and Tools 🛠 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
